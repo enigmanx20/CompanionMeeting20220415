@@ -19,6 +19,7 @@ Download tarball:
 https://drive.google.com/file/d/1ChmAopO9EfiZJMiDYzw5VNSGTDvLcHn4/view?usp=sharing
 
 `tar -zxvf PCam200.tar.gz`
+`git clone https://github.com/enigmanx20/CompanionMeeting20220415.git`
  
 ## Zero-shot prediction
 Predicting normal and tumor on few samples without any re-training. The performance poor. Perhaps pathological images were scarce in the dataset of 400M images-text pairs (named WebImageText) to train CLIP models.
