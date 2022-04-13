@@ -19,6 +19,7 @@ Download tarball:
 https://drive.google.com/file/d/1ChmAopO9EfiZJMiDYzw5VNSGTDvLcHn4/view?usp=sharing
 
 `tar -zxvf PCam200.tar.gz`
+
 `git clone https://github.com/enigmanx20/CompanionMeeting20220415.git`
  
 ## Zero-shot prediction
