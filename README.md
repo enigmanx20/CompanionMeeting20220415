@@ -22,7 +22,7 @@ Follow the original instructions to install and run CLIP.
 Download tarball:
 https://drive.google.com/file/d/1ChmAopO9EfiZJMiDYzw5VNSGTDvLcHn4/view?usp=sharing
 
-`mv ~/downloads/PCam200.tar.gz`
+`mv ~/downloads/PCam200.tar.gz ./`
 
 `tar -zxvf PCam200.tar.gz`
 
