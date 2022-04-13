@@ -13,6 +13,8 @@ Follow the original instructions to install and run CLIP.
 - tqdm 3.60.0
 - ftfy 6.1.1
 - regex 2022.3.15
+For pytorch_tensorflow_translation.ipynb
+- tensorflow   2.3.1
 
 ## Dataset preparation
 `git clone https://github.com/enigmanx20/CompanionMeeting20220415.git`
