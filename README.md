@@ -2,7 +2,7 @@
 Original repository: https://github.com/openai/CLIP
 Follow the original instructions to install and run CLIP.
 
-## Requirement (verified version)
+## Requirement (verified environment)
 - NVIDIA Quadro RTX 8000
 - CUDA 10.2
 - pytorch 1.8.1
