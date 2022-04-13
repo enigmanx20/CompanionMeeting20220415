@@ -34,4 +34,4 @@ Predicting normal and tumor on few samples without any re-training. The performa
 Regarding the model as a freezed encoder to extract a feature vector from an image. Then a logistic regression model is trained from the feature vector. This logistic regression model is similar to one layer perceptron with logistic (or softmax) activations. 
 
 ## Linear head transfer learning
-The original fully connected (or dense) layer for logits is replaced with a fully connected (or dense) layer with intended outputs (2 outputs in PCam200). Then entire network is re-trained. Stochastic  gradient descent (SGD) with small learning rate (typically 1e-4 ~ 3e-3) is often used for this purpose. Usually the performance is better than linear probe.
+The original fully connected (or dense) layer for logits is replaced with a fully connected (or dense) layer with intended outputs (2 outputs in PCam200). Then entire network is re-trained. Stochastic  gradient descent (SGD) with small learning rate (typically 1e-4 ~ 3e-3) is often used for this purpose. Usually the performance is better than linear probe and often comparable with scratch training.
